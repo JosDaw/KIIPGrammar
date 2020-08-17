@@ -1,5 +1,5 @@
 # KIIPGrammar
-A project to provide Korean grammar explanations, Korean exams, and Korean study resources.
+A vanilla JS project to provide Korean grammar explanations, Korean exams, and Korean study resources.
 Visit the live site <a href="kiipgrammar.com">KIIPGrammar.com</a>
 
 ## Introduction
