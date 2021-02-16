@@ -854,6 +854,13 @@ input[type=submit] {
     div.sentbe-container {
       display: none;
     }
+
+    .RK-ad {
+        width: 99%;
+    }
+    .RK-ad img {
+        width: 100%;
+    }
 }
 
 @media screen and (min-width: 601px) {
